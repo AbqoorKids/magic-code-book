@@ -1,8 +1,4 @@
 
----
-
-## **2) ملف المثال الأول** — `04_max_number.py`
-
 ```python
 # -*- coding: utf-8 -*-
 # 04_max_number.py
