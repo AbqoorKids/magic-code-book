@@ -9,7 +9,7 @@
 temperature = int(input("كم درجة الحرارة؟ "))
 time = int(input("كم دقيقة؟ "))
 
-if temperature >= 180 and time > 20:
+if temperature >= 180 and time >= 20:
     print("🍰 الكعكة جاهزة!")
 else:
     print("⏳ غير جاهزة بعد")
